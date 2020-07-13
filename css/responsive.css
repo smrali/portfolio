@@ -1,0 +1,157 @@
+@media only screen and (max-width: 1200px){
+	header{
+		height:75vh;
+	}
+.hero-text-box{
+		width:90%;}
+
+}  
+       
+@media only screen and (max-width: 1024px){
+	header{
+		height:70vh;
+	}
+	.claint-photo{
+	width:100%;
+	float:none;
+	text-align:center;
+}
+.claint-review{
+	width:100%;
+	float:none;
+	text-align:center;
+}
+.contact-section form{
+	width:90%;
+	margin-left:5%;
+}	
+.logo{
+	margin-left:1rem;
+	
+}
+}
+@media only screen and (max-width: 980px){
+.main-nav{
+	display:none;
+}	
+
+.span_1_of_4{
+	width:49.2%;
+}
+.span_1_of_4:nth-child(3){
+	margin-left:0;
+}
+.skill-section .box{
+	width: 35%;
+	margin-left: 10%;
+}
+.footer-section a{
+	font-size:2rem;
+	
+}
+.mobile-menu{
+	display:block;
+	
+}
+.sticky{
+	
+}
+}
+@media only screen and (max-width: 768px){
+.skill-section .box{
+	width:30%;
+	margin-left:13%;
+	height: auto;
+}
+.footer-section a{
+	font-size:1.7rem;
+	
+}
+.ltl-description{
+	width:100%;
+	margin-left:0;
+}
+h1{
+	font-size:2rem;
+}
+h2{
+	font-size:2rem;
+}
+h3{
+	font-size:2rem;
+}
+
+}
+@media only screen and (max-width: 480px){
+	.box{
+	padding:1%;
+	margin-top:0;
+}
+.span_1_of_4 {
+		width: 100%; 
+	}
+.span_1_of_4:nth-child(3){
+	margin-left:0%;
+
+}
+.skill-section .box{
+	width:24rem;
+	margin-left: 20%;
+	height: auto;
+}
+.portfolio-filter button{
+	background:#ebc985;
+	font-size:1.2rem;
+	padding:1rem 2rem;
+	border:0;
+	border-radius:0.5rem;
+	text-transform:uppercase;
+	margin:.5rem;
+	
+}
+.testimonial-section .col:nth-child(1),
+.testimonial-section .col:nth-child(2){
+	margin-top:2rem;
+}
+.testimonial-section .col:nth-child(3),
+.testimonial-section .col:nth-child(4){
+	margin-top:2rem;
+}
+}
+@media only screen and (max-width: 375px){
+	.skill-section .box{
+	width:24rem;
+	margin-left: 15%;
+	height: auto;
+}
+}
+@media only screen and (max-width: 360px){
+	.skill-section .box{
+	width:20rem;
+	margin-left:20%;
+	height: auto;
+}
+.testimonial-section .col:nth-child(1),
+.testimonial-section .col:nth-child(2){
+	margin-top:2rem;
+}
+.testimonial-section .col:nth-child(3),
+.testimonial-section .col:nth-child(4){
+	margin-top:2rem;
+}
+}
+@media only screen and (max-width: 320px){
+	.skill-section .box{
+	width:18rem;
+	margin-left: 18%;
+	height: auto;
+}
+.testimonial-section .col:nth-child(1),
+.testimonial-section .col:nth-child(2){
+	margin-top:2rem;
+}
+.testimonial-section .col:nth-child(3),
+.testimonial-section .col:nth-child(4){
+	margin-top:2rem;
+}
+}
